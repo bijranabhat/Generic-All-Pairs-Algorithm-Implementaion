@@ -1,4 +1,4 @@
-McKenzie Allaben and Bijay Ranabhat
+ Bijay Ranabhat
 README FILE 
 Algorithmic Graph Theory
 
